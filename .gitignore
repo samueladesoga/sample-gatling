@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+samuel-adesoga.iml
+/functional-tests/build/**
+/functional-tests/target/**
+/functional-tests/out/**
+/performance-tests/project/target/**
+/performance-tests/project/project/**
+/performance-tests/target/**
+.gradle
