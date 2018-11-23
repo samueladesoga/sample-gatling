@@ -1,5 +1,0 @@
-exit
-gatling:test
-gatling:clean
-gatling:test
-exit
